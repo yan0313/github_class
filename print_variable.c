@@ -14,7 +14,6 @@ int main()
         //j=9, b=783
         //...
         //j=22, b=1914
-        printf("OAO\n");
-        break;
+        printf("j=%d",j,", b=",b*j);
     }
 }
