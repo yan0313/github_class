@@ -1,0 +1,8 @@
+#include <stdio.h>
+main()
+{
+    int a=0,b=0,c=0,d=0,e=0;
+    printf("請輸入五個數字，以空白隔開。\n");
+    scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
+    printf("a=%d\nb=%d\nc=%d\nd=%d\ne=%d\n", a,b,c,d,e);
+}
