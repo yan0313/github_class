@@ -6,7 +6,6 @@ main()
     while(1)
     {
         scanf("%d",&input);
-        printf("%d ", input,"\n");
+        printf("%d\n", input);
     }
 }
-
