@@ -1,6 +1,7 @@
 #include <stdio.h>
-int i,j;
-int main() {
+int i;
+main() 
+{
     printf("請輸入一個整數︰");
     scanf("%d", &i);
     if(i<=2147483647)
